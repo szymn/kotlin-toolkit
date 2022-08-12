@@ -69,8 +69,8 @@ dependencies {
     implementation("androidx.media2:media2-session:1.2.0")
     implementation("androidx.media2:media2-player:1.2.0")
 
-    implementation("com.google.android.exoplayer:exoplayer-core:2.16.1")
-    implementation("com.google.android.exoplayer:extension-media2:2.16.1")
+    implementation("com.github.doublesymmetry.Exoplayer:exoplayer-core:r2.17.2")
+    implementation("com.github.doublesymmetry.Exoplayer:extension-media2:r2.17.2")
 
     testImplementation("junit:junit:4.13.2")
 
